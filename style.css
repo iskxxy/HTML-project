@@ -1,0 +1,109 @@
+.eco-1
+{
+    float: right;
+    width: 15%;
+    border: 0.1px solid gray;
+    background-color: rgb(255, 0, 0);
+    height: 30px;
+    text-align: center;
+    margin-top: 5px;
+    padding-top: 5px;
+    border-radius: 10px;
+    font-size: 18px;
+
+}
+
+.eco-2
+{
+    float: right;
+    width: 38%;
+    border: 0.1px solid gray;
+    background-color:gray;
+    height: 30px;
+    text-align: center;
+    margin-top: 5px;
+    margin-right: 10px;
+    padding-top: 5px;
+    border-radius: 10px;
+    font-size: 18px;
+
+
+}
+.eco-3 
+{
+    float: left;
+    width: 7%;
+    border: 0.1px solid gray;
+    background-color: darkmagenta;
+    height: 30px;
+    text-align: center;
+    margin-top: 5px;
+    margin-right: 10px;
+    padding-top: 7px;
+    border-radius: 10px;
+    font-size: 16px;
+
+
+}
+
+.eco-4 
+{
+    float: left;
+    width: 7%;
+    border: 0.1px solid gray;
+    background-color: mediumslateblue;
+    height: 30px;
+    text-align: center;
+    margin-top: 5px;
+    margin-right: 10px;
+    padding-top: 7px;
+    border-radius: 10px;
+    font-size: 16px;
+}
+.eco-5 {
+    float: left;
+    width: 100%;
+    border: 0.1px solid gray;
+    background-color: blue;
+    height: 300px;
+    text-align: center;
+    margin-top: 5px;
+    margin-right: 10px;
+    padding-top: 100px;
+    border-radius: 10px;
+    font-size: 16px;
+}
+
+
+
+.eco-6
+{
+    float: left;
+    width: 8.2%;
+    border: 0.1px solid gray;
+    background-color: darkred ;
+    height: 60px;
+    text-align: center;
+    margin-top: 5px;
+    margin-right: 30px;
+    margin-left: 30px;
+    padding-top: 10px;
+    border-radius: 30px;
+    font-size: 16px;
+}
+
+.eco-7
+{
+    float: right;
+    width: 20%;
+    border: 0.1px solid gray;
+    background-color: darkorange ;
+    height: 120px;
+    text-align: center;
+    margin-top: 50px;
+    margin-right: 42px;
+    margin-left: 30px;
+    padding-top: 10px;
+    border-radius: 10px;
+    font-size: 16px;
+}
